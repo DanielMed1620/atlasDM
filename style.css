@@ -1,0 +1,32 @@
+h1, h2 {
+    color: green;
+  }
+  h2{
+  color: blue;
+  }
+  p {
+    font-weight: bold;
+    color: black;
+  }
+  ul {
+    border: 2px solid orange;
+    background-color: #FFB6C1;
+  }
+  
+  ol {
+    border: 2px solid purple;
+    background-color: #4f42b5;
+  }
+  
+  ol, ul {
+    padding: 5px 20px;
+    border-radius: 4px;
+  }
+  h1, strong {
+    color: red;
+  }
+  
+  em {
+    color: orange;
+  }
+      
